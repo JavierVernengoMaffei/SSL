@@ -1,2 +1,7 @@
 # SSL
-Repositorio de Vernengo Maffei Javier para la materia Sintaxis y Semántica de los Lenguajes.
+Sintaxis y Semántica de los Lenguajes
+K2151
+2025
+176.565-6
+Vernengo Maffei
+Javier
